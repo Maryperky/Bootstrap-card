@@ -1,0 +1,12 @@
+#card1{
+  width: 70%;
+}
+.tocenter{
+  display : flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+#fakeprice{
+  text-decoration: line-through;
+}
